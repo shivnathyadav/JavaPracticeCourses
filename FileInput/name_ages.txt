@@ -1,0 +1,10 @@
+John is 30  years old 
+Shivaji is 25  years old 
+Dheeraj is 22  years old 
+Syed is 21  years old 
+Anil is 24  years old 
+Samhitha' is 32  years old 
+Lavanya is 28  years old 
+Akhil is 29  years old 
+Vishal is 27  years old 
+Rohit is 19  years old 
